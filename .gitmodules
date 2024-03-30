@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/ht3aa/productivity_server
+[submodule "website"]
+	path = website
+	url = https://github.com/ht3aa/productivity_website
